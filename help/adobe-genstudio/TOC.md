@@ -10,7 +10,7 @@ ht-degree: 4%
 ---
 
 
-# Adobe [!DNL GenStudio] {#tutorials}
+# Adobe [!DNL GenStudio] {#tutorials}
 
 + [Tutoriels [!DNL GenStudio]](overview.md)
 + [Workflow et planification](workflow-and-planning.md)
